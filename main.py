@@ -1,2 +1,1 @@
-print("welcome to Git\n")
-print("welcome to Checking of branches\n")
+print("This is Merge conflict modified file")
