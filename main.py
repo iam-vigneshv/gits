@@ -1,1 +1,1 @@
-print("This is Merge conflict modified file")
+print("Resolved Merge Conflict code base")
